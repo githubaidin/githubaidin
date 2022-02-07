@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @githubaidin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning many different things in programming area.
+- 🌱 I’m currently learning many different things in the programming area.
 
 <!---
 githubaidin/githubaidin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
